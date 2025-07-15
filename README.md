@@ -1,87 +1,58 @@
-## 👩‍💻 Manisha Kumawat
+# Hi there! 👋 I'm Manisha Kumawat
 
-## Final-Year B.Tech Student | AI & ML Specialization | Python & Web Developer**
+Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Engineering student at Gujarat Technological University, specializing in Artificial Intelligence and Machine Learning. I enjoy solving real-world problems through data science, machine learning, and web-based AI solutions.
 
-📍 Gandevi, Gujarat, India
-📧 [kumawatmanisha967@gmail.com](mailto:kumawatmanisha967@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/kumawatmanishakhemraj) | [GitHub](https://github.com/Manisha-1619)
 
----
 
-## 🚀 About Me
+## About Me
 
-I am a passionate final-year Computer Science & Engineering student, specializing in **Artificial Intelligence and Machine Learning**, with hands-on experience in building **predictive models**, **CNN-based image classifiers**, and **web applications**. I love solving real-world problems using data, logic, and innovative thinking.
+- 🎓 Specializing in AI and ML, with hands-on experience in building predictive models and IoT-based smart systems.
+- 🌐 Skilled in developing Python-based applications with frameworks like Flask and Streamlit.
+- 📚 Currently enrolled in SAP's Code Unnati program focused on Advanced AI and Competitive Coding.
+- 💡 Soft skills: Problem-solving, creativity, and adaptability.
 
----
 
-## 🛠️ Skills
 
-### 👨‍💻 Programming
+## Projects
 
-* Python, Java, C, JavaScript, PHP, SQL, HTML/CSS
+### 🌿 Plant Disease Prediction System Using CNN
 
-### 🤖 AI & ML
+- **Description:** A computer vision system using Convolutional Neural Networks to detect plant diseases from leaf images with over 86% accuracy.
+- **Tech Stack:** Python, TensorFlow, Keras, Streamlit, Docker.
+- **Status:** Deployed web app for real-time disease detection.
 
-* TensorFlow, Keras, Scikit-learn, Pandas, NumPy
-* Supervised & Unsupervised Learning, CNNs, Feature Engineering, Hyperparameter Tuning
 
-### 🌐 Web Development
-
-* HTML, CSS, Bootstrap, JavaScript, PHP, XAMPP
-* Responsive Design, Web Form Validation
-
-### 🧰 Tools & Platforms
-
-* VS Code, Jupyter Notebook, Google Colab, GitHub, MySQL, Eclipse, SAP
-
----
-
-## 📚 Projects
-
-### 🌿 Plant Disease Prediction System
-
-**Tech Stack:** Python, TensorFlow, Keras, Streamlit, Docker
-
-* Built a CNN model trained on the **PlantVillage dataset** with 43K+ images
-* Achieved **86%+ accuracy** on plant disease classification
-* Deployed using **Streamlit** for real-time web-based predictions
 
 ### ⚖️ Nyay Bot – Legal Chatbot
 
-**Tech Stack:** SAP Conversational AI, Telegram
+- **Description:** A chatbot developed using SAP Conversational AI and Telegram to help users understand basic legal processes.
+- **Tech Stack:** SAP Conversational AI, Telegram Bot API.
+- **Status:** Aimed at promoting legal awareness and transparency.
 
-* Created a chatbot to guide Indian citizens on legal processes
-* Focused on improving **transparency** and reducing dependence on intermediaries
 
-💼 Hiring Outcome Prediction
 
-**Tech Stack:** Python, Scikit-learn, Flask
+### 💼 Hiring Outcome Prediction (ML Project)
 
-* Built a **Random Forest model** to predict hiring decisions
-* Implemented feature selection, model tuning, and deployed a **Flask-based** web app
+- **Description:** A classification model to predict hiring outcomes using candidate data. Emphasized preprocessing, feature selection, and model tuning.
+- **Tech Stack:** Python, Scikit-learn, Random Forest, Flask.
+- **Status:** Successfully deployed as a web application.
 
----
 
-## 🎓 Education
 
-**B.E. in Computer Science & Engineering (AI & ML Honors)**
-*Gujarat Technological University* — 2022–2026
-CGPA: **8.0** | CPI: **8.3**
+## Experience
 
----
+### 🌐 Code Unnati Internship – SAP & Edunet Foundation
 
-## 📜 Certifications & Internships
+- 📅 Duration: June 2025 – July 2025
+- 📌 Focus: Advanced AI, Deep Learning, Python, Competitive Coding.
+- 🧠 Outcome: Enhanced practical skills in real-world ML development and collaborative coding.
 
-* Code Unnati Internship (Advanced AI & Competitive Coding), **SAP & Edunet Foundation** *(June–July 2025)*
-* Artificial Intelligence Course
-* SAP Foundation Course
-* AMCAT Certified
 
----
+## 📫 Contact Me
 
- 📈 Goals
+- ✉️ Email: kumawatmanisha967@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kumawatmanishakhemraj)  
+- 💻 [GitHub](https://github.com/Manisha-1619)
 
-🔍 Seeking opportunities in **Data Science**, **Machine Learning**, and **AI Research**
-
----
+  *Thank you for visiting my GitHub profile! 😊*
 
