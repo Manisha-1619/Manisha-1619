@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Engineering student at Gujarat Technological University, specializing in Artificial Intelligence and Machine Learning. I enjoy solving real-world problems through data science, machine learning, and web-based AI solutions.
 
-
-
 ## About Me
 
 - 🎓 Specializing in AI and ML, with hands-on experience in building predictive models and IoT-based smart systems.
@@ -11,9 +9,8 @@ Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Enginee
 - 📚 Currently enrolled in SAP's Code Unnati program focused on Advanced AI and Competitive Coding.
 - 💡 Soft skills: Problem-solving, creativity, and adaptability.
 
-
-
 ## Projects
+
 
 ### 🌿 Plant Disease Prediction System Using CNN
 
@@ -21,22 +18,17 @@ Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Enginee
 - **Tech Stack:** Python, TensorFlow, Keras, Streamlit, Docker.
 - **Status:** Deployed web app for real-time disease detection.
 
-
-
 ### ⚖️ Nyay Bot – Legal Chatbot
 
 - **Description:** A chatbot developed using SAP Conversational AI and Telegram to help users understand basic legal processes.
 - **Tech Stack:** SAP Conversational AI, Telegram Bot API.
 - **Status:** Aimed at promoting legal awareness and transparency.
 
-
-
 ### 💼 Hiring Outcome Prediction (ML Project)
 
 - **Description:** A classification model to predict hiring outcomes using candidate data. Emphasized preprocessing, feature selection, and model tuning.
 - **Tech Stack:** Python, Scikit-learn, Random Forest, Flask.
 - **Status:** Successfully deployed as a web application.
-
 
 
 ## Experience
